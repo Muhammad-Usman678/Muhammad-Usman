@@ -15,12 +15,7 @@ This project focuses on the analysis and prediction of heart diseases using vari
 ## Installation
 
 To run this project, you need to have Python installed along with several libraries like:
-ucimlrepo
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
+ucimlrepo, numpy, pandas, scikit-learn, matplotlib, seaborn
 
 Ensure that you have the ucimlrepo package installed, as it is required for this project:
 pip install ucimlrepo
