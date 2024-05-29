@@ -14,7 +14,13 @@ This project focuses on the analysis and prediction of heart diseases using vari
 
 ## Installation
 
-To run this project, you need to have Python installed along with several libraries.
+To run this project, you need to have Python installed along with several libraries like:
+ucimlrepo
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
 
 Ensure that you have the ucimlrepo package installed, as it is required for this project:
 pip install ucimlrepo
@@ -61,4 +67,5 @@ The results section includes the findings from the EDA and the performance metri
 
 **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
-
+**Licence**
+This project is licensed under the MIT License.
